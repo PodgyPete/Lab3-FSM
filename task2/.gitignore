@@ -1,0 +1,12 @@
+# Verilator compiled files and directories
+obj_dir/
+*.mk
+
+# Simulation waveforms and logs
+*.vcd
+*.log
+
+# Editor and OS junk
+.DS_Store
+*~
+*.swp
